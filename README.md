@@ -1,4 +1,4 @@
-# [Happy Birthday](https://danilocanuto.github.io/Tic_Tac_Toe)
+# [Happy Birthday](https://danilocanuto.github.io/Happy-Birthday-Site)
 
 <file src="index.html"/>
 
